@@ -309,7 +309,7 @@ header .logo img{
 }
 .box .education {
     position: absolute;
-    top: 285px;
+    top: 265px;;
     left: 500px;
     text-align: left;
 }
@@ -331,6 +331,7 @@ header .logo img{
 	margin-left:50px;
 	list-style: disc;
 	font-size: 1.5rem;
+	line-height: 1.65rem;
 }
 .box .education li{
 	margin-bottom: 20px;
@@ -342,7 +343,7 @@ header .logo img{
 }
 .box .certificate{
 	position: absolute;
-	top:463px;
+	top:480px;;
 	left:500px;
 	text-align: left;
 }
