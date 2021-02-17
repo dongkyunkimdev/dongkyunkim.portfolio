@@ -21,5 +21,5 @@
 * Chrome
 * Microsoft Edge
 
-## 도메인
+## URL
 https://codekyun.cf/
