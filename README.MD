@@ -6,8 +6,6 @@
 ## 사용 기술
 
 언어
-* HTML5  
-* CSS3  
 * Javascript  
 * jQuery  
 
